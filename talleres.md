@@ -22,7 +22,7 @@
 
 # Talleres<a id="sec-1"></a>
 
-Definimos la alfabetización web como las prácticas y los saberes necesarios para leer, escribir y participar en la web. En base al mapa de alfabetización web diseñado por Mozilla y un colectivo de internacional de colaboradores y la propuesta de curriculum de Informática de Eduteka, se organizan estos tres talleres de formación técnica.
+Definimos la alfabetización web como las prácticas y los saberes necesarios para leer, escribir y participar en la web. En base al [mapa de alfabetización web](https://webmaker.org/es/literacy) diseñado por [Mozilla](https://mozilla.org) y un colectivo de internacional de colaboradores y la propuesta de curriculum de Informática de [Eduteka](http://www.eduteka.org), se organizan estos tres talleres de formación técnica.
 Estos talleres abordan algunas de las prácticas relacionadas con los aspectos constructivos de la Web. Específicamente con el hilo "construir" del mapa de alfabetización web.
 
 ## Taller de Diseño *Audiovisual*<a id="sec-1-1"></a>
