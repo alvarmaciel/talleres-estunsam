@@ -204,9 +204,9 @@ Se definen como recursos de Multimedia (imágenes, animaciones, fotografías, so
 
 1.  Recursos
 
-    -   [Algunas cosas sobre mí](https://amaciel.makes.org/thimble/LTE0NzQ0Mjg0MTY=/algunas-cosas-sobre-m%25C3%25AD)
-    -   http://csunplugged.org/image-representation/
-    -  
+- [Algunas cosas sobre mí](https://amaciel.makes.org/thimble/LTE0NzQ0Mjg0MTY=/algunas-cosas-sobre-m%25C3%25AD)
+- http://csunplugged.org/image-representation/
+    
 
 ## Taller de Diseño *Multimedia*<a id="sec-1-2"></a>
 
