@@ -92,7 +92,7 @@ Se definen como recursos de Multimedia (imágenes, animaciones, fotografías, so
 <tr>
 <td class="right">1</td>
 <td class="left">- Pixel <br> - Herramientas del oficio, estado y mantenimiento</td>
-<td class="left">- [Secuencia en base a la representación de imágenes](http://csunplugged.org/image-representation/#Colour_by_Numbers)</td>
+<td class="left">- [representación de imágenes](http://csunplugged.org/image-representation/#Colour_by_Numbers)</td>
 <td class="left">- Los estudiantes tendrán que poder codificar y decodificar  una imagen <br> - Los estudiantes tendrán que poder evaluar el estado de su netbook</td>
 </tr>
 
