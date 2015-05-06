@@ -36,6 +36,10 @@ El pensamiento n se ve ni se toca, pero pesa.Está gravitado por el suelo que se
   Emanuel Levinas
   hay que estar atento a lo nuevo
   la alteridad, el otro en cuanto otro. Broudellair    
-  El otro es el rostro del otro que me interela éticamente.
+  El otro es el rostro del otro que me interela éticamente -educame, pero no me violentes, no me reduzcas a una categria.
   
+  la alteridad eso qe es el otro como lo aprendemos o como le mostramos lo que nosotros vemos
   
+  si el rostro del otro me hace responsable, como hago al otro responsable de mi rostro
+  
+  No es lo mismo se ralguien en el seno de nostros que en el centro de nosotros
