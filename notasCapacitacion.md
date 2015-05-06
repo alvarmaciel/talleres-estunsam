@@ -25,6 +25,17 @@ El pensamiento n se ve ni se toca, pero pesa.Está gravitado por el suelo que se
   
   fagocitación
   
-  soy técnico fagocitad por la educacón.
+  soy técnico fagocitad por la educacón o un educador fagocitado por la técnica
+  
+  la lucha por el reconocimiento en el acto educativo
+  -  EL deseo de aprender, el poder de enseñar
+  ¿Cómo trabajamos para que se conecte el deso de aprender?
+  El poder de enseñar también lo tiene el otro.
+  el desafío es aprender los unos de los otros
+  
+  Emanuel Levinas
+  hay que estar atento a lo nuevo
+  la alteridad, el otro en cuanto otro. Broudellair    
+  El otro es el rostro del otro que me interela éticamente.
   
   
