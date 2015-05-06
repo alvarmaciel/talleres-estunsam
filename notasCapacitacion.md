@@ -28,6 +28,7 @@ El pensamiento n se ve ni se toca, pero pesa.Está gravitado por el suelo que se
   soy técnico fagocitad por la educacón o un educador fagocitado por la técnica
   
   la lucha por el reconocimiento en el acto educativo
+  
   -  EL deseo de aprender, el poder de enseñar
   ¿Cómo trabajamos para que se conecte el deso de aprender?
   El poder de enseñar también lo tiene el otro.
@@ -43,3 +44,8 @@ El pensamiento n se ve ni se toca, pero pesa.Está gravitado por el suelo que se
   si el rostro del otro me hace responsable, como hago al otro responsable de mi rostro
   
   No es lo mismo se ralguien en el seno de nostros que en el centro de nosotros
+  
+## Para revisar
+  
+- [ ] [cuerpo, identidad y singularidad en jean baudrillard](http://www.jornadashumha.com.ar/PDF/2009/Cuerpo%20identidad%20y%20singularidad%20en%20Jean%20Baudrillard%20-%20Walter%20Cenci.pdf)
+- 
