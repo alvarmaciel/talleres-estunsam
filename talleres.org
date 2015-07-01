@@ -1,0 +1,147 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:t
+#+OPTIONS: todo:t |:t
+#+TITLE: ETSUNSAM
+#+DATE: <2015-04-12 dom>
+#+AUTHOR: Alvar Maciel
+#+EMAIL: alvarmaciel@gmail.com
+#+DESCRIPTION: Planificaicones de los talleres de Diseño 1, Diseño 2 y Programación
+#+KEYWORDS:
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.4.1 (Org mode 8.3beta)
+* Talleres
+:PROPERTIES:
+:ID:       aa4e6e5a-bdfb-4090-b8f4-bac2fae3dc46
+:END:
+Definimos la alfabetización web como las prácticas y los saberes necesarios para leer, escribir y participar en la web. En base al mapa de alfabetización web diseñado por Mozilla y un colectivo de internacional de colaboradores y la propuesta de curriculum de Informática de Eduteka, se organizan estos tres talleres de formación técnica.
+Estos talleres abordan algunas de las prácticas relacionadas con los aspectos constructivos de la Web. Específicamente con el hilo "construir" del mapa de alfabetización web.
+** Criterios de evaluación
+- Del grupo
+  - Construir un ambiente propicio para el aprendizaje técnico
+    - Ambiente seguro, limpio, amigable para construir conocimiento desde la práctica.
+- De las clases
+  - Que empiecen y terminen una actividad.
+  - Que sostengan las consignas en clase.
+  - Que permanezcan en el aula/taller.
+ 
+** Taller de Diseño /Audiovisual/
+Se definen como recursos de Multimedia (imágenes, animaciones, fotografías, sonidos, fondos, videos, etc) que se descargan de diversas fuentes o que se generan a partir de producciones propias para editarlos y utilizarlos como complemento en otros proyectos.
+*** Prácticas y Saberes a abordar
+- Componiendo para la web (Crear y curar contenidos para la web)
+  - Insertar hipervínculos en una página web.
+  - Embeber contenido multimedia en una página web.
+  - Crear recursos web en forma apropiada para el género y medio.
+  - Estructurar una página web.
+- Remixado (modificación de recursos web existentes para crear algo nuevo)
+  - Identificar y usar trabajos con licencias abiertas
+  - Combinar recursos multimediales
+  - Crear algo nuevo en la web usando recursos existentes
+- Diseño y accesibilidad (creación a través de recursos web de comunicaciones universalmente efectivas)
+  - Identificar las difrentes partes de una página web usando términos reconocidos por la industria.
+  - Mejorar la accesibilidad de una página web modificando los esquemas de colores y su marcado
+  - Iterar un diseño después de tener comentarios de una audiencia objetivo.
+  - Reconocer la estructura de una página web para mejorar su flujo jerarquico-conceptual.
+  - Demostrar la diferencia entre CSS interno, embebido y externo
+  - Usar etiquetas CSS para cambiar el estilo y estrucutra de una página web.
+
+*** Qué queremos a enseñar                                       :noexport:
+- Pixels y como hace la computadora para construir un gráfico en pixels
+- Manejo de valores y líneas
+- Manejo de capas
+- FotoMontaje
+- Gráficos Vectoriales
+- HTML - Construcción de galerías de producciones
+*** TODO Desglose de contenidos
+:PROPERTIES:
+:ID:       cf1c8c84-e9d0-4206-8bb9-b80c2fd3256c
+:END:
+- Comprender la noción de Pixels y como hace la computadora para construir un gráfico en pixels
+- Herramientas del oficio, estado y mantenimiento.
+- Comprender las características básicas de las imágenes digitales (resolución, formato, dimensiones, tamaño de archivo, etc).
+- Utilizar un escáner para digitalizar imágenes. O una cámara fotográfica para capturar una imagen
+- Convertir una imagen de colores a escala de grises o a blanco y negro.
+- Rotar (girar), dar vuelta (invertir) o reflejar una imagen.
+- Comprender la diferencia entre imágenes vectoriales e imágenes de mapas de bits.
+- Utilizar los comandos copiar y pegar para duplicar dibujos e imágenes en un mismo documento o entre varios documentos.
+- Modificar una imagen prediseñada (desagrupar imagen, modificar y agrupar).
+- Descargar dibujos e imágenes de páginas de Internet y guardarlos en una carpeta para su utilización posterior.
+- Duplicar, mover y eliminar dibujos e imágenes de documentos.
+- Cambiar en un documento el tamaño de dibujos e imágenes.
+- Cortar una parte de dibujos e imágenes.
+- Dar los créditos correspondientes a los autores de dibujos e imágenes obtenidos de cualquier fuente.
+*** Secuencias
+
+| Clase | Qué                                                                             | Cómo                                                | evaluación                                                                                                                                       |
+|-------+---------------------------------------------------------------------------------+-----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | - Pixel <br> - Herramientas del oficio, estado y mantenimiento                  | - [[http://csunplugged.org/image-representation/#Colour_by_Numbers][Secuencia en base a la representación de imágenes]] | - Los estudiantes tendrán que poder codificar y decodificar  una imagen <br> - Los estudiantes tendrán que poder evaluar el estado de su netbook |
+|     2 | - Fotos, tratamiento para la edición <-br> - Valores, grises, líneas y recortes | - A partir de nuestras fotos vamos a intervenirlas  | - Los estudiantes tendrán que poder sacar fotos y hacer algunas modificaciones                                                                   |
+|     3 |                                                                                 |                                                     |                                                                                                                                                  |
+|     4 |                                                                                 |                                                     |                                                                                                                                                  |
+|     5 |                                                                                 |                                                     |                                                                                                                                                  |
+|     6 |                                                                                 |                                                     |                                                                                                                                                  |
+|     7 |                                                                                 |                                                     |                                                                                                                                                  |
+|     8 |                                                                                 |                                                     |                                                                                                                                                  |
+|     9 |                                                                                 |                                                     |                                                                                                                                                  |
+|    10 |                                                                                 |                                                     |                                                                                                                                                  |
+|    11 |                                                                                 |                                                     |                                                                                                                                                  |
+|    12 |                                                                                 |                                                     |                                                                                                                                                  |
+|    13 |                                                                                 |                                                     |                                                                                                                                                  |
+|    14 |                                                                                 |                                                     |                                                                                                                                                  |
+|-------+---------------------------------------------------------------------------------+-----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------|
+
+**** Recursos
+- [[https://amaciel.makes.org/thimble/LTE0NzQ0Mjg0MTY=/algunas-cosas-sobre-m%25C3%25AD][Algunas cosas sobre mí]]
+- http://csunplugged.org/image-representation/
+- 
+** Taller de Diseño /Multimedia/
+- Construcción de imagen
+- Animación clásica (stopmotion)
+- Animación dibujos 2D /processing/
+- HTML/Básico (escritura en la web)
+** Taller de Programación 1
+- Metodología de resolución de problemas
+Explaining the differences between client-side and server-side scripting
+Composing working loops and arrays
+Reading and explaining the structure of code
+Using a script framework
+Adding code comments for clarification and attribution
+
+- Variable
+- Objetos
+- Clases
+- HTML/Básico
+- Github 
+
+* Itinerario de formación docente
+:PROPERTIES:
+:ID:       bee7601d-8868-4dd9-8e41-6970f5702002
+:END:
+** ¿Qué enseñar? Una reflexión sobre los contenidos desde el punto de vista de la justicia curricular.
+- Aulas virtuales: http://est.unsamdigital.edu.ar/?lang=es_mx
+- soporte: http://ticket.unsam.edu.ar
+*** Horizonte pedagógico
+- Una forma de construir conocimiento.
+- Se construye a partir de una idea de sociedad. Visión orientadora, que parte de la escuela
+- Justicia Curricular
+  - La justicia social se vincula a algo curricular
+- Pensamiento Situado
+  - Los pibes construyen saberes desde un lugar A CONOCER
+- Pedagogía de la presencia
+- Curriculum centrado en las capacidades
+  - Chequear el mapa de alfabetización web para
+- Situaciones problemáticas
+  - cotidianas o de la cotidianidad
+  - vinculantes en las capacidades
+- La importancia de enseñar mi materia, o como hacer para aceptar que lo que enseño no es lo más importante, sino que es parte e algo mucho más amplio, que no llego a ver.
+- pensamiento fragmentado, acción fragmentada, resolución fragmentada
+- necesidades básicas
+  - alimento
+  - abrigo
+  - techo
+  - afecto
+  - ¿Cuáles son las necesidades en relación a la técnica?
+  - ¿Con quién vamos a elaborar un curriculum nuevo?
