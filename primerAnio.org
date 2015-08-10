@@ -1,0 +1,43 @@
+* Planificción Primer Año
+* Qué quiero enseñar
+ - [ ] Explorar: Leer la web
+   - [ ] Navegación
+     - Acceder a la web usando las características comunes de un navegador.
+     - Usar hiperlinks para acceder a un rango de recursos de la web.
+     - Leer, evaluar y manipular URLs
+     - Reconocimiento de pistas visuales en los servicios web
+     - Explorar complementos y extensiones de los navegadores para proveerlos de funcionalidades adicionales.
+   - [ ] Mecánica de la web
+     - Usar y entender la diferencia entre URLs, direcciones IP y términos de búsqueda.
+     - Identificar dónde está la información en la red de dispositivos que hace a Internet.
+     - Exportar, mover y resguardar datos de servicios web.
+     - Explicar el papel que juegan los algoritmos en la creación y manejo de contenido web.
+     - Crear o modificar un algoritmo para traer contenido de la web.
+   - [ ] Búsqueda
+     - Desarrollar preguntas que ayuden a la búsqueda.
+     - Usar y revisar palabras claves para que las búsquedas sean más eficientes.
+     - Evaluar los resultados de las búsquedas para determinar si la información es relevante.
+     - Encontrar información en tiempo real o información sensible a tiempo usando un rango de técnicas de búsqueda.
+     - Descubrir información y recursos a través de preguntas dentro de las redes sociales.
+   - [ ] Credibilidad
+     - Comparar y contrastar información de varias fuentes.
+     - Formular juicios basándose en las características técnicas y de diseño.
+     - Discriminar entre contenido original y derivado.
+     - Evaluar como las perspectivas y los propósitos dan forma a los recursos web.FIXME
+   - [ ] Seguridad
+     - Recomendar como evitar estafas online y 'phishing'.
+     - Manejar y mantener la seguridad de las cuentas.
+     - Encriptr datos y comunicaciones usando programas y complementos.
+     - Cambiar el comportamiento por defecto de páginas, complementos y extensiones para hacer la navegación más segura.
+ - [ ] Construir: Escribir en la web
+   - [ ] Composición
+   - [ ] Remixado
+   - [ ] Diseño
+   - [ ] Codigo/Scripting
+   - [ ] Accesibilidad
+ - [ ] Conectar: Participar en la web
+   - [ ] Compartir
+   - [ ] Colaboración
+   - [ ] Participación
+   - [ ] Privacidad
+   - [ ] Prácticas Abiertas
