@@ -39,26 +39,11 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
   - Se vuelve a reflexionar sobre lo hecho
   - Se resume lo aprendido
 - Cantidad de Modulos: 4
-  1. Introducción a la programación I
-     a. Secuencias de comandos y procedimientos
-     b. Procedimientos y subtareas I
-     c. Procedimientos y subtareas II
-     d. Bucles y condicionales
-  2. Introducción a la Programación II
-     a. Repetición simple y alternativa condicional
-     b. 
-     c. 
-     d. 
+  1. Introducción a la programación y la resolución de problemas I
+  2. Introducción a la Programación y la resolución de problemas II
   3. Proyectos I
-     a. 
-     b. 
-     c. 
-     d. 
   4. Proyectos II
-     a. 
-     b. 
-     c. 
-     d. 
+  
 ** Secuencia
 *** Módulo 1
 - Clase 1:Procedimientos y subtareas I
