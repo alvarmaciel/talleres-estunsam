@@ -103,6 +103,41 @@ Se definen como recursos de Multimedia (imágenes, animaciones, fotografías, so
 - Animación dibujos 2D /processing/
 - HTML/Básico (escritura en la web)
 ** Taller de Programación 1
+- Objetivos generales
+  - Incorporar habilidades algorítmicas simples que incrementen su razonamiento lógico, y conceptos abstractos que incrementen su nivel de abstracción en relación a las ciencias de la computación.
+  - Entender ideas fundamentales, útiles, transversales y generalizables sobre algoritmos y programación.
+  - Entender estructuras de datos básicas y sus interfaces.
+  - Conocer nociones básicas sobre bases de datos.
+- Contenidos
+  - Valores, expresiones y comandos
+  - Secuencias de comandos
+  - Definición de procedimientos y funciones
+  - Precondiciones y postcondiciones
+  - Tipos de errores al programar (de tipo, de ejecución, de sintaxis)
+  - Parametrización y parámetros
+  - Alternativa condicional e indexada
+  - Repetición, repetición indexada, repetición condicional
+  - Variables
+  - Recorridos
+  - Datos compuestos.
+  - Tipado de datos y chequeo de tipos (simplificado)
+  - Estructuras de datos básicas (listas, diccionarios, conjuntos, colas de prioridad).
+  - Modularización e interfaces.
+  - Algoritmos de búsqueda (simples)
+  - Algoritmos de ordenamiento (simples)
+  - Propiedades del código (legibilidad, modificabilidad, corrección, etc.).
+  - Testing.
+  - Construcción de interfaces de usuario simples (web, de escritorio, para dispositivos móviles).
+  - Conceptos sobre validación de datos ingresados por el usuario.
+  - Persistencia de información y bases de datos
+  - (Opcional) Elementos básicos de la programación orientada a objetos (polimorfismo, patrones de diseño)
+  - (Opcional) Elementos básicos de programación funcional (funciones de orden superior, esquemas de funciones, polimorfismo paramétrico)
+
+clases 18
+
+
+
+
 - Metodología de resolución de problemas
 Explaining the differences between client-side and server-side scripting
 Composing working loops and arrays
