@@ -1,0 +1,183 @@
+* Taller de Programación 2
+** Enfoque de la materia y justificación
+Las Ciencias de la Computación es una disciplina que incluye saberes tales como:
+- Algorítmica: Los necesarios para poder formular soluciones efectivas y sistemáticas a diversos tipos de problemas.
+- La programación: Es decir, los conocimientos necesarios para poder volcar esas soluciones algorítmicas a los diversos lenguajes que utilizan las computadoras: Cómo almacenar la información de manera que pueda ser recuperada más adelante y que se pueda buscar velozmente un dato entre miles o millones de otros, como hacen por ejemplo los buscadores de Internet. Estos saberes se agrupan en dos áreas temáticas: estructuras de datos y bases de datos
+- Arquitectura de las computadoras: Nos referimos al entendimiento de los componentes que definen los distintos tipos de computadoras. También al entendimiento de cómo estos componentes se construyen a partir de la combinación de manipulaciones sencillas de voltaje eléctrico.
+- Almacenamiento: Cómo almacenar la información de manera que pueda ser recuperada más adelante y que se pueda buscar velozmente un dato entre miles o millones de otros, como hacen por ejemplo los buscadores de Internet. Estos saberes se agrupan en dos áreas temáticas: estructuras de datos y bases de datos.
+- Teoría: Los fundamentos teóricos que marcan las diferencias entre los distintos lenguajes, sus posibilidades e imposibilidades, ventajas y desventajas.
+- Las redes de computadoras: Es decir, la forma en que las computadoras intercambian información permitiendo el funcionamiento de Internet y todas las aplicaciones que funcionan gracias a Internet, como la web, la mensajería instantánea, los juegos en línea, las transmisiones de audio y video, etc.
+
+Además, en la disciplina intervienen un conjunto de saberes y capacidades intelectuales que se ganan para toda la vida y son aplicables a todos los demás campos de estudio.
+Constituyen una forma de pensar que tiene características propias y diferentes a la de otras ciencias, destacándose:
+- Descomposición en subproblemas
+- Generalización y abstracción de casos particulares
+- Modelización y formalización
+- Procesos de diseño, implementación y prueba
+
+El estado impulsa la ensaeñanza de las ciencias de la computación 
+- Porque este tipo de estudios contribuye al desarrollo de capacidades fundamentales
+- Porque Nos ayuda a comprender cómo funciona el mundo.
+- Porque el acercamiento temprano a este tipo de conocimientos ayuda a despertar vocaciones en carreras afines.
+- Porque Argentina tiene condiciones para estar entre los países líderes de la era digital.
+
+ 
+Porque Argentina tiene condiciones para estar entre los países líderes de la era digital.
+
+  - Estrategias de resolución de problemas
+  - Programación para comunicar soluciones
+  - Programas para comunicar ideas
+  - Pensamiento computacional para desarrollar capacidades 
+** Organización del taller
+- Cantidad de Clases: 16
+- Forma de trabajo: Aprendizaje por indagación
+  - Se plantea un problema
+  - Se intenta una solución
+  - Se reflexiona sobre lo hecho
+  - Se brindan nuevas herramientas (de ser necesario)
+  - Se vuelve a probar una solución
+  - Se vuelve a reflexionar sobre lo hecho
+  - Se resume lo aprendido
+- Cantidad de Modulos: 4
+  1. Introducción a la programación I
+     a. Secuencias de comandos y procedimientos
+     b. Procedimientos y subtareas I
+     c. Procedimientos y subtareas II
+     d. Bucles y condicionales
+  2. Introducción a la Programación II
+     a. Repetición simple y alternativa condicional
+     b. 
+     c. 
+     d. 
+  3. Proyectos I
+     a. 
+     b. 
+     c. 
+     d. 
+  4. Proyectos II
+     a. 
+     b. 
+     c. 
+     d. 
+** Secuencia
+*** Módulo 1
+- Clase 1:Procedimientos y subtareas I
+  - Qué vamos a hacer: Scratch y Programando en cuadriculado
+  - Cómo lo vamos a hacer
+    - Problemas:
+      - Problema 1: [[http://scratch.mit.edu/projects/11256783/#editor][El gato en la calle]]
+        - Repasaremos las ideas de:
+          - programa
+          - comandos
+          - secuencia de comandos
+        - Comprenderemos como funciona el entorno de scratch
+        - Consignas:
+          - Que el gato avance al centro de la calle y se tire a dormir.
+          - Que luego de acostarse, se levante, salude y se vuelva a acostar
+          - Que salude, se acueste, y luego se levante y vuelva a saludar.
+        - Cómo definir nuevos comandos:
+          - Actividades: Definir el procedimiento despertarse que hace que el gato abra los ojos y se levante
+  - Actividad sin computadoras: Comprenderemos Cómo formular instrucciones de manera adecuada, según un modelo de ejecución dado
+  - Ejercitaremos: Los principios de programación ya vistos, pero en otro modelo de ejecución
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 2: Secuencias de comandos y procedimientos
+  - Qué vamos a hacer: Usar lightbot para resolver problemas.
+  - Problemas:
+    - Problema 1: [[http://lightbot.com/hocflash.html]]
+      - Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
+      - Revisar las soluciones y definir los comandos básicos como primitivas
+    - Problema 2: Resolver el Subnivel 1 del Nivel 2
+      - Herramienta/concepto necesario: Procedimientos
+      - Sirve para representar tareas
+      - Es mejor que cada procedimiento represente a una tarea específica
+    - Problema 3: Avanzar hasta terminar el nivel 2
+  - Conclusiones:
+    - Los programas pueden resolver problemas específicos
+    - Es necesario:
+      - Pensar el problema, y luego
+      - Proponer una solución a través de la programació
+      - Existen formas simples de resolver problemas
+      - Si encontramos el patrón que permite descomponerlos (aunque haya formas complicadas de resolver el problema)
+      - No hay un único camino para resolver el problema.
+  - Qué y Cómo lo vamos a evaluar:
+    - Participación y compromiso con la tarea
+    - Entre tódos
+  - Reflexión sobre la clase:
+- Clase 3: Scratch. Procedimientos y subtareas II
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 4: Bucles y condicionales
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+*** Módulo 2
+- Clase 1:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 2:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 3:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 4:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+*** Módulo 3
+- Clase 1:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 2:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 3:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 4:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+*** Modulo 4
+- Clase 1:
+  - Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 2:
+- Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 3:
+- Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+- Clase 4:
+- Qué vamos a hacer
+  - Cómo lo vamos a hacer
+  - Cómo lo vamos a evaluar
+  - Reflexión:
+** Fuentes:
+- [[http://programar.gob.ar/]]
+- [[http://eduteka.org]]
+- http://www.eduteka.org/pdfdir/AlgoritmosProgramacionCuaderno1.pdf
