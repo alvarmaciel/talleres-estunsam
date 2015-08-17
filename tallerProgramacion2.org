@@ -38,7 +38,7 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
   - Se vuelve a probar una solución
   - Se vuelve a reflexionar sobre lo hecho
   - Se resume lo aprendido
-- Cantidad de Modulos: 4
+- Cantidad de Modulos: 4 de 4 clases cada uno
   1. Introducción a la programación y la resolución de problemas I
   2. Introducción a la Programación y la resolución de problemas II
   3. Proyectos I
@@ -46,11 +46,17 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
   
 ** Secuencia
 *** Módulo 1
-- Clase 1:Procedimientos y subtareas I
-  - Qué vamos a hacer: Scratch y Programando en cuadriculado
+- Clase 1:Programas primitivas y procedimientos 
+  - Qué vamos a hacer: Lightbot y Scratch
   - Cómo lo vamos a hacer
     - Problemas:
-      - Problema 1: [[http://scratch.mit.edu/projects/11256783/#editor][El gato en la calle]]
+      - Problema 1: Resolver el nivel 1 Básico de [[http://lightbot.com/hocflash.html][Lightbot]]
+        - Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
+        - Revisar las soluciones y definir los comandos básicos como primitivas.
+        - Resumen:
+          - Comandos:
+          - Primitivas:
+      - Problema 2: [[http://scratch.mit.edu/projects/11256783/#editor][El gato en la calle]]
         - Repasaremos las ideas de:
           - programa
           - comandos
@@ -62,21 +68,18 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
           - Que salude, se acueste, y luego se levante y vuelva a saludar.
         - Cómo definir nuevos comandos:
           - Actividades: Definir el procedimiento despertarse que hace que el gato abra los ojos y se levante
-  - Actividad sin computadoras: Comprenderemos Cómo formular instrucciones de manera adecuada, según un modelo de ejecución dado
-  - Ejercitaremos: Los principios de programación ya vistos, pero en otro modelo de ejecución
-  - Cómo lo vamos a evaluar
-  - Reflexión:
-- Clase 2: Secuencias de comandos y procedimientos
-  - Qué vamos a hacer: Usar lightbot para resolver problemas.
+    - Cómo lo vamos a evaluar
+      - Evaluaremos la *participación* y *compromiso* con la tarea.
+      - Entre todos.
+  - Reflexión del docente:
+- Clase 2: Secuencias de comandos y procedimientos I
+  - Qué vamos a hacer: Usar lightbot para resolver problemas II y usar Scratch para resolver problemas.
   - Problemas:
-    - Problema 1: [[http://lightbot.com/hocflash.html]]
-      - Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
-      - Revisar las soluciones y definir los comandos básicos como primitivas
-    - Problema 2: Resolver el Subnivel 1 del Nivel 2
+    - Problema 3: Resolver el Subnivel 1 del Nivel 2
       - Herramienta/concepto necesario: Procedimientos
       - Sirve para representar tareas
       - Es mejor que cada procedimiento represente a una tarea específica
-    - Problema 3: Avanzar hasta terminar el nivel 2
+    - Problema 4: Avanzar hasta terminar el nivel 2
   - Conclusiones:
     - Los programas pueden resolver problemas específicos
     - Es necesario:
@@ -87,16 +90,19 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
       - No hay un único camino para resolver el problema.
   - Qué y Cómo lo vamos a evaluar:
     - Participación y compromiso con la tarea
-    - Entre tódos
+    - Entre Todos
   - Reflexión sobre la clase:
-- Clase 3: Scratch. Procedimientos y subtareas II
-  - Qué vamos a hacer
-  - Cómo lo vamos a hacer
+- Clase 3: Scratch. Procedimientos y subtareas I
+  - Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
+  - Cómo lo vamos a hacer:
+    - Problemas
+      - Bateria del 5 al 8
   - Cómo lo vamos a evaluar
   - Reflexión:
 - Clase 4: Bucles y condicionales
-  - Qué vamos a hacer
-  - Cómo lo vamos a hacer
+  - Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
+  - Cómo lo vamos a hacer:
+    - Batería del 8 en adelante
   - Cómo lo vamos a evaluar
   - Reflexión:
 *** Módulo 2
