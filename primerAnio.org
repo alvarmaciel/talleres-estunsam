@@ -1,5 +1,6 @@
-* Planificción Primer Año
+* Planificación Primer Año
 * Qué quiero enseñar
+Para poder definir los contenidos o lo que se pretende enseñar, utilizaremos el 
  - [ ] Explorar: Leer la web
    - [ ] Navegación
      - Acceder a la web usando las características comunes de un navegador.
@@ -31,13 +32,60 @@
      - Cambiar el comportamiento por defecto de páginas, complementos y extensiones para hacer la navegación más segura.
  - [ ] Construir: Escribir en la web
    - [ ] Composición
+     - [ ] Insertar hiperlinks en una página web.
+     - Identificar y usar html tags.
+     - Embeber contenido multimedia en una página web.
+     - Crear recurso web acorde a medio/género.
+     - Configurar y controlar un espacio de publicación web.
    - [ ] Remixado
+     - 
+    Identifying remixable content.
+    Combining multimedia resources to create something new on the web.
+    Shifting context and meaning by creating derivative content.
+    Citing and referencing original content.
    - [ ] Diseño
+    Using CSS properties to change the style and layout of a Web page.
+    Demonstrating the difference between inline, embedded and external CSS.
+    Improving user experiences through feedback and iteration.
+    Creating device-agnostic web resources.
    - [ ] Codigo/Scripting
+    Reading and explaining the structure of code.
+    Identifying and applying common coding patterns and concepts.
+    Adding comments to code for clarification and attribution.
+    Applying a script framework.
+    Querying a web service using an API.
    - [ ] Accesibilidad
+    Using empathy and awareness to inform the design of web content that is accessible to all users.
+    Designing for different cultures which may have different interpretations of design elements.
+    Comparing and exploring how different interfaces impact diverse users.
+    Improving the accessibility of a web page through the design of its color scheme, structure/hierarchy and markup.
+    Comparing and contrasting how different interfaces impact diverse web users.
  - [ ] Conectar: Participar en la web
    - [ ] Compartir
+    Creating and using a system to distribute web resources to others.
+    Contributing and finding content for the benefit of others.
+    Creating, curating, and circulating web resources to elicit peer feedback.
+    Understanding the needs of audiences in order to make relevant contributions to a community.
+    Identifying when it is safe to contribute content in a variety of situations on the web.
    - [ ] Colaboración
+    Choosing a Web tool to use for a particular contribution/ collaboration.
+    Co-creating Web resources.
+    Configuring notifications to keep up-to-date with community spaces and interactions.
+    Working towards a shared goal using synchronous and asynchronous tools.
+    Developing and communicating a set of shared expectations and outcomes.
    - [ ] Participación
+    Engaging in web communities at varying levels of activity.
+    Respecting community norms when expressing opinions in web discussions.
+    Making sense of different terminology used within online communities.
+    Participating in both synchronous and asynchronous discussions.
    - [ ] Privacidad
+    Debating privacy as a value and right in a networked world.
+    Explaining ways in which unsolicited third parties can track users across the web.
+    Controlling (meta)data shared with online services.
+    Identifying rights retained and removed through user agreements.
+    Managing and shaping online identities.
    - [ ] Prácticas Abiertas
+    Distinguishing between open and closed licensing.
+    Making web resources available under an open license.
+    Contributing to an open source project.
+    Advocating for an open web.
