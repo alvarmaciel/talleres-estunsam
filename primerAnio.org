@@ -89,3 +89,16 @@ Para poder definir los contenidos o lo que se pretende enseñar, utilizaremos el
     Making web resources available under an open license.
     Contributing to an open source project.
     Advocating for an open web.
+* Clase 1
+** Instalación de firefox
+1. Crear una carpeta llamada /opt/
+2. Ir a [[http://mozilla.org][Mozilla.org]]
+3. Hacer click en sistemas e idiomas
+4. Buscar Lenguaje Español Argentina, la flechita con el Pinguino y el 64 abajo
+5. Esperar
+6. Esperar que baje
+7. ir a /Lugares/ -> /Descargas/
+8. Abrir Firefox
+9. Exportar en la carpeta /opt/
+10. /Sistema/ -> /Preferencias/ -> /Menu Principal/
+11. Agregar el menú Firefox
