@@ -38,22 +38,21 @@ Para poder definir los contenidos o lo que se pretende enseñar, utilizaremos el
      - Crear recurso web acorde a medio/género.
      - Configurar y controlar un espacio de publicación web.
    - [ ] Remixado
-     - 
-    Identifying remixable content.
-    Combining multimedia resources to create something new on the web.
-    Shifting context and meaning by creating derivative content.
-    Citing and referencing original content.
+     - Identificar contenido remixable.
+     - Combinar recursos multimedia para crear algo nuevo en la web.
+     - Cambiar contexto y significado a través de la creación de contenido derivado.
+     - Criticar y referenciar contenido original.
    - [ ] Diseño
-    Using CSS properties to change the style and layout of a Web page.
-    Demonstrating the difference between inline, embedded and external CSS.
-    Improving user experiences through feedback and iteration.
-    Creating device-agnostic web resources.
+     - Uso de propiedades CSS para cambir el estilo y disposición de una página web.
+     - Demostración de las diferencias entre CSS entre líneas embebido y externo.
+     - Mejoramiento de experiencia de usuario a través de feedback e iteraciones.
+     - Creación de recursos web dispositivo-independiente.
    - [ ] Codigo/Scripting
-    Reading and explaining the structure of code.
-    Identifying and applying common coding patterns and concepts.
-    Adding comments to code for clarification and attribution.
-    Applying a script framework.
-    Querying a web service using an API.
+     - Leer y explicar la estructura de código.
+     - Identificar y aplicar patrones y conceptos de código comunes.
+     - Agregar comentarios al código para aclarar y hacer atribuciones.
+     - Aplicar un script framework.
+     - Consultar un servicio web usando una API.
    - [ ] Accesibilidad
     Using empathy and awareness to inform the design of web content that is accessible to all users.
     Designing for different cultures which may have different interpretations of design elements.
@@ -90,11 +89,11 @@ Para poder definir los contenidos o lo que se pretende enseñar, utilizaremos el
     Contributing to an open source project.
     Advocating for an open web.
 * Clase 1
-** Instalación de firefox
+** Instalación de Firefox
 1. Crear una carpeta llamada /opt/
 2. Ir a [[http://mozilla.org][Mozilla.org]]
 3. Hacer click en sistemas e idiomas
-4. Buscar Lenguaje Español Argentina, la flechita con el Pinguino y el 64 abajo
+4. Buscar Lenguaje Español Argentina, la flechita con el Pinguino y el 64 abajo (Puede fallar. Si no anda elegir el pinguino sin 64)
 5. Esperar
 6. Esperar que baje
 7. ir a /Lugares/ -> /Descargas/
@@ -102,3 +101,9 @@ Para poder definir los contenidos o lo que se pretende enseñar, utilizaremos el
 9. Exportar en la carpeta /opt/
 10. /Sistema/ -> /Preferencias/ -> /Menu Principal/
 11. Agregar el menú Firefox
+12. Abrir el Firefox y agregar el complemento *Adblock Plus*
+*** Tarea
+1. Sacar una cuenta en GMAIL
+2. Mandar un mail a alvarlmaciel@gmail.com
+   Asunto: /Nombre y Apellido/
+   Contenido: Hola, ya saqué mi mail ñ_ñ

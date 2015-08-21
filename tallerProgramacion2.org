@@ -46,86 +46,86 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
   
 ** Secuencia
 *** Módulo 1
-- Clase 1:Programas primitivas y procedimientos 
+**** Clase 1:Programas primitivas y procedimientos
   - Qué vamos a hacer: Lightbot y Scratch
-  - Cómo lo vamos a hacer
-    - Problemas:
-      - Problema 1: Resolver el nivel 1 Básico de [[http://lightbot.com/hocflash.html][Lightbot]]
-        - Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
-        - Revisar las soluciones y definir los comandos básicos como primitivas.
-        - Resumen:
-          - Comandos:
-          - Primitivas:
-      - Problema 2: [[http://scratch.mit.edu/projects/11256783/#editor][El gato en la calle]]
-        - Repasaremos las ideas de:
-          - programa
-          - comandos
-          - secuencia de comandos
-        - Comprenderemos como funciona el entorno de scratch
-        - Consignas:
-          - Que el gato avance al centro de la calle y se tire a dormir.
-          - Que luego de acostarse, se levante, salude y se vuelva a acostar
-          - Que salude, se acueste, y luego se levante y vuelva a saludar.
-        - Cómo definir nuevos comandos:
-          - Actividades: Definir el procedimiento despertarse que hace que el gato abra los ojos y se levante
-    - Cómo lo vamos a evaluar
-      - Evaluaremos la *participación* y *compromiso* con la tarea.
-      - Entre todos.
-  - Reflexión del docente:
-- Clase 2: Secuencias de comandos y procedimientos I
-  - Qué vamos a hacer: Usar lightbot para resolver problemas II y usar Scratch para resolver problemas.
-  - Problemas:
-    - Problema 3: Resolver el Subnivel 1 del Nivel 2
-      - Herramienta/concepto necesario: Procedimientos
-      - Sirve para representar tareas
-      - Es mejor que cada procedimiento represente a una tarea específica
-    - Problema 4: Avanzar hasta terminar el nivel 2
-  - Conclusiones:
-    - Los programas pueden resolver problemas específicos
-    - Es necesario:
-      - Pensar el problema, y luego
-      - Proponer una solución a través de la programació
-      - Existen formas simples de resolver problemas
-      - Si encontramos el patrón que permite descomponerlos (aunque haya formas complicadas de resolver el problema)
-      - No hay un único camino para resolver el problema.
-  - Qué y Cómo lo vamos a evaluar:
-    - Participación y compromiso con la tarea
-    - Entre Todos
-  - Reflexión sobre la clase:
-- Clase 3: Scratch. Procedimientos y subtareas I
-  - Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
+   - Cómo lo vamos a hacer
+**** Problemas:
+***** Problema 1: Resolver el nivel 1 Básico de [[http://lightbot.com/hocflash.html][Lightbot]]
+- Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
+- Revisar las soluciones y definir los comandos básicos como primitivas.
+- Resumen:
+- Comandos:
+- Primitivas:
+***** Problema 2: [[http://scratch.mit.edu/projects/11256783/#editor][El gato en la calle]]
+- Repasaremos las ideas de:
+  - programa
+  - comandos
+  - secuencia de comandos
+  - Comprenderemos como funciona el entorno de scratch
+- Consignas:
+  - Que el gato avance al centro de la calle y se tire a dormir.
+  - Que luego de acostarse, se levante, salude y se vuelva a acostar
+  - Que salude, se acueste, y luego se levante y vuelva a saludar.
+  - Cómo definir nuevos comandos:
+  - Actividades: Definir el procedimiento despertarse que hace que el gato abra los ojos y se levante
+- Cómo lo vamos a evaluar
+  - Evaluaremos la *participación* y *compromiso* con la tarea.
+  - Entre todos.
+***** Reflexión del docente.
+**** Clase 2: Secuencias de comandos y procedimientos I
+ - Qué vamos a hacer: Usar lightbot para resolver problemas II y usar Scratch para resolver problemas.
+   - Problemas:
+     - Problema 3: Resolver el Subnivel 1 del Nivel 2
+       - Herramienta/concepto necesario: Procedimientos
+       - Sirve para representar tareas
+       - Es mejor que cada procedimiento represente a una tarea específica
+     - Problema 4: Avanzar hasta terminar el nivel 2
+   - Conclusiones:
+     - Los programas pueden resolver problemas específicos
+     - Es necesario:
+       - Pensar el problema, y luego
+       - Proponer una solución a través de la programació
+       - Existen formas simples de resolver problemas
+       - Si encontramos el patrón que permite descomponerlos (aunque haya formas complicadas de resolver el problema)
+       - No hay un único camino para resolver el problema.
+   - Qué y Cómo lo vamos a evaluar:
+     - Participación y compromiso con la tarea
+     - Entre Todos
+   - Reflexión sobre la clase:
+**** Clase 3: Scratch. Procedimientos y subtareas I
+- Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
   - Cómo lo vamos a hacer:
     - Problemas
       - Bateria del 5 al 8
   - Cómo lo vamos a evaluar
   - Reflexión:
-- Clase 4: Bucles y condicionales
-  - Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
-  - Cómo lo vamos a hacer:
-    - Batería del 8 en adelante
-  - Cómo lo vamos a evaluar
-  - Reflexión:
+**** Clase 4: Bucles y condicionales
+- Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
+- Cómo lo vamos a hacer:
+  - Batería del 8 en adelante
+- Cómo lo vamos a evaluar
+- Reflexión:
 *** Módulo 2
-- Clase 1:
-  - Qué vamos a hacer
+**** Clase 1:
+- Qué vamos a hacer
   - Cómo lo vamos a hacer
   - Cómo lo vamos a evaluar
   - Reflexión:
-- Clase 2:
-  - Qué vamos a hacer
-  - Cómo lo vamos a hacer
-  - Cómo lo vamos a evaluar
-  - Reflexión:
-- Clase 3:
-  - Qué vamos a hacer
-  - Cómo lo vamos a hacer
-  - Cómo lo vamos a evaluar
-  - Reflexión:
-- Clase 4:
-  - Qué vamos a hacer
-  - Cómo lo vamos a hacer
-  - Cómo lo vamos a evaluar
-  - Reflexión:
+  - Clase 2:
+    - Qué vamos a hacer
+    - Cómo lo vamos a hacer
+    - Cómo lo vamos a evaluar
+    - Reflexión:
+  - Clase 3:
+    - Qué vamos a hacer
+    - Cómo lo vamos a hacer
+    - Cómo lo vamos a evaluar
+    - Reflexión:
+  - Clase 4:
+    - Qué vamos a hacer
+    - Cómo lo vamos a hacer
+    - Cómo lo vamos a evaluar
+    - Reflexión:
 *** Módulo 3
 - Clase 1:
   - Qué vamos a hacer
