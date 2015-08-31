@@ -1,3 +1,19 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+TITLE: Taller progrmación II
+#+DATE: <2015-08-21 vie>
+#+AUTHOR: Alvar Maciel
+#+EMAIL: alvarmaciel@gmail.com
+#+DESCRIPTION: Planificación de Taller de Programación
+#+KEYWORDS: Planificaciones Programación
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.3.1 (Org mode 8.2.6)
+#+COLUMNS: %40ITEM(Task) %10SCHEDULED %5TODO(To-do) %1PRIORITY %10TAGS
+
 * Taller de Programación 2
 ** Enfoque de la materia y justificación
 Las Ciencias de la Computación es una disciplina que incluye saberes tales como:
@@ -48,7 +64,7 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
 *** Módulo 1
 **** Clase 1:Programas primitivas y procedimientos
   - Qué vamos a hacer: Lightbot y Scratch
-   - Cómo lo vamos a hacer
+  - Cómo lo vamos a hacer
 **** Problemas:
 ***** Problema 1: Resolver el nivel 1 Básico de [[http://lightbot.com/hocflash.html][Lightbot]]
 - Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
@@ -61,20 +77,24 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
   - programa
   - comandos
   - secuencia de comandos
-  - Comprenderemos como funciona el entorno de scratch
+  - Comprenderemos como funciona el entorno de scratch.mit.edu
 - Consignas:
   - Que el gato avance al centro de la calle y se tire a dormir.
-  - Que luego de acostarse, se levante, salude y se vuelva a acostar
-  - Que salude, se acueste, y luego se levante y vuelva a saludar.
+    - Que luego de acostarse, se levante, salude y se vuelva a acostar
+    - Que salude, se acueste, y luego se levante y vuelva a saludar.
   - Cómo definir nuevos comandos:
   - Actividades: Definir el procedimiento despertarse que hace que el gato abra los ojos y se levante
 - Cómo lo vamos a evaluar
   - Evaluaremos la *participación* y *compromiso* con la tarea.
   - Entre todos.
 ***** Reflexión del docente.
+Fue la primer clase, la primer media hora los chicxs de arte pasaron a explicar como van a funcionar los talleres electivos. Luego nos tomó como media hora ponernos en tarea. Pero al final lo logramos.
+Sólo pudieron hacer el primer nivel de lightbot. Es difícil proponer una dinámica de problema-reflexión-problema-conclusión. Parecerá una obviedad pero hacer de esto una obviedad evita el tratamiento del problema; la instancia de reflexión es difícil. Pensar, dialogar con otros es lo complicado.
+Les propuse a los chicos dos modelos de clase. El anterior o un más centrado en el estudio de textos. La idea es que ellos elijan como será la clase pero no si tendrán clase o no. Entonces, quedó pendiente el problema del gato en la calle.
 **** Clase 2: Secuencias de comandos y procedimientos I
  - Qué vamos a hacer: Usar lightbot para resolver problemas II y usar Scratch para resolver problemas.
    - Problemas:
+     - Problema 2: Qué no se resolvió la clase pasada. 
      - Problema 3: Resolver el Subnivel 1 del Nivel 2
        - Herramienta/concepto necesario: Procedimientos
        - Sirve para representar tareas

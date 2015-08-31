@@ -1,0 +1,21 @@
+* Clase 1
+LENTO ES NORMAL
+** Instalación de Firefox
+- [X] Crear una carpeta llamada /opt/
+- [X] Ir a [[http://mozilla.org][Mozilla.org]]
+- [X] Hacer click en sistemas e idiomas
+- [X] Buscar Lenguaje Español Argentina, la flechita con el Pinguino y el 64 abajo (Puede fallar. Si no anda elegir el pinguino sin 64)
+- [X] Esperar
+- [ ] Esperar que baje
+- [ ] ir a /Lugares/ - [ ]> /Descargas/
+- [ ] Abrir Firefox
+- [ ] Exportar en la carpeta /opt/
+- [ ] /Sistema/ - [ ]> /Preferencias/ - [ ]> /Menu Principal/
+- [ ] Agregar el menú Firefox
+- [ ] Abrir el Firefox y agregar el complemento *Adblock Plus*
+** Tarea
+1. BAJAR FIREFOX EN HUAYRA
+2. Sacar una cuenta en GMAIL
+3. Mandar un mail a alvarlmaciel@gmail.com
+   Asunto: /Nombre y Apellido/
+   Contenido: Hola, ya saqué mi mail ñ_ñ
