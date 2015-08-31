@@ -64,29 +64,15 @@ Porque Argentina tiene condiciones para estar entre los países líderes de la e
 *** Módulo 1
 **** Clase 1:Programas primitivas y procedimientos
   - Qué vamos a hacer: Lightbot y Scratch
-  - Cómo lo vamos a hacer
-**** Problemas:
-***** Problema 1: Resolver el nivel 1 Básico de [[http://lightbot.com/hocflash.html][Lightbot]]
-- Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
-- Revisar las soluciones y definir los comandos básicos como primitivas.
-- Resumen:
-- Comandos:
-- Primitivas:
-***** Problema 2: [[http://scratch.mit.edu/projects/11256783/#editor][El gato en la calle]]
-- Repasaremos las ideas de:
-  - programa
-  - comandos
-  - secuencia de comandos
-  - Comprenderemos como funciona el entorno de scratch.mit.edu
-- Consignas:
-  - Que el gato avance al centro de la calle y se tire a dormir.
-    - Que luego de acostarse, se levante, salude y se vuelva a acostar
-    - Que salude, se acueste, y luego se levante y vuelva a saludar.
-  - Cómo definir nuevos comandos:
-  - Actividades: Definir el procedimiento despertarse que hace que el gato abra los ojos y se levante
-- Cómo lo vamos a evaluar
-  - Evaluaremos la *participación* y *compromiso* con la tarea.
-  - Entre todos.
+  
+***** Problemas:
+- Problema 1: Resolver el nivel 1 Básico de [[http://lightbot.com/hocflash.html][Lightbot]]
+  - Consigna: Avanzar hasta terminar el nivel 1, en cada subnivel, primero discutir la estrategia de solución.
+  - Revisar las soluciones y definir los comandos básicos como primitivas.
+  - Resumen:
+  - Comandos:
+  - Primitivas:
+
 ***** Reflexión del docente.
 Fue la primer clase, la primer media hora los chicxs de arte pasaron a explicar como van a funcionar los talleres electivos. Luego nos tomó como media hora ponernos en tarea. Pero al final lo logramos.
 Sólo pudieron hacer el primer nivel de lightbot. Es difícil proponer una dinámica de problema-reflexión-problema-conclusión. Parecerá una obviedad pero hacer de esto una obviedad evita el tratamiento del problema; la instancia de reflexión es difícil. Pensar, dialogar con otros es lo complicado.
@@ -114,17 +100,18 @@ Les propuse a los chicos dos modelos de clase. El anterior o un más centrado en
    - Reflexión sobre la clase:
 **** Clase 3: Scratch. Procedimientos y subtareas I
 - Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
-  - Cómo lo vamos a hacer:
-    - Problemas
-      - Bateria del 5 al 8
-  - Cómo lo vamos a evaluar
-  - Reflexión:
+- [[file:materiales/proc1.pdf][Guía Procedimientos 1]]
+***** Problemas
+ - [[http://scratch.mit.edu/projects/11256783/#editor][El gato en la calle]]
+ - [[http://scratch.mit.edu/projects/11293145/#editor][El marciano en el Desierto]]
+***** Reflexión: La clase fue variable y el problema fuí yo, el cansansi se reflejó en la primer media hora. Recién pude retomar la clase cuando dejé de atarme a la forma en que quería que funcione la clase. Tiré los problemas, repartí las máquinas y arrancaron a trabajar. La dificultad, otra vez, fueron los momentos en que tenemos que retomar lo que hicieron para pensar como resolvieron o para introducir algún concepto o herramienta nueva. No seguí con la guía 2 una vez que terminaron ya que abriría a un tema nuevo. Usé el problema del marciano para seguir con el tema procedimiento. Mañana será la prueba de fuego. Segundo es más disperso. Tengo que empezar con todo, repartiendo las máquinas y tirando la consigna. Ya veremos como funciona.
 **** Clase 4: Bucles y condicionales
 - Qué vamos a hacer: Resolver problemas problemas prediseñados en scratch para repasar la idea de *subtarea*, *descomposición de los problemas* y análisis *top down*
-- Cómo lo vamos a hacer:
-  - Batería del 8 en adelante
-- Cómo lo vamos a evaluar
-- Reflexión:
+***** Problemas
+- [[http://www.google.com/url?q=http%253A%252F%252Fscratch.mit.edu%252Fprojects%252F22689181%252F%2523editor&sa=D&sntz=1&usg=AFQjCNHk6ZHjKeW8M8i0zNJCmJY-MWhfAA][No me canso de saltar]]
+- Programación sin computadoras
+- [[file:materiales/rep1.pdf][Guía 2]]
+***** Reflexión
 *** Módulo 2
 **** Clase 1:
 - Qué vamos a hacer
