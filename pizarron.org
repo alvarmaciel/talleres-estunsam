@@ -19,3 +19,5 @@ LENTO ES NORMAL
 3. Mandar un mail a alvarlmaciel@gmail.com
    Asunto: /Nombre y Apellido/
    Contenido: Hola, ya saqué mi mail ñ_ñ
+* Clase <2015-09-08 mar>
+Problema: Lightbot en scratch
